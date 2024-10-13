@@ -56,6 +56,9 @@ builder.AddProject<Projects.BlazorWebAssemblyUI>("blazorwebassemblyui");
 
 ![image](https://github.com/user-attachments/assets/7b3db30a-86fd-4ddb-ad08-33d5039d57f3)
 
+## 6. Removing these code in the BlazorWebAssemblyUI (launchSettings.json)
+
+![image](https://github.com/user-attachments/assets/d7066523-1915-4473-85b6-a2d7fd304384)
 
 
 
