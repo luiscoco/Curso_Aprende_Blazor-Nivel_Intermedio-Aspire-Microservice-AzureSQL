@@ -1,4 +1,4 @@
-# BlazorWebAssambly-MicroService_CRUD_AzureSQL
+# How to create with .NET Aspire a Blazor WebAssambly application consuming a MicroService CRUD AzureSQL
 
 For more info about .NET Aspire Microservices visit this URL: 
 
