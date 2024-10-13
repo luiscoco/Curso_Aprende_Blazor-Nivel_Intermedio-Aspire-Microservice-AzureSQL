@@ -60,5 +60,12 @@ builder.AddProject<Projects.BlazorWebAssemblyUI>("blazorwebassemblyui");
 
 ![image](https://github.com/user-attachments/assets/d7066523-1915-4473-85b6-a2d7fd304384)
 
+After removing the code this is the result
+
+![image](https://github.com/user-attachments/assets/7f821f3f-77ef-48c6-89c7-f814ac3edbc4)
+
+
+
+
 
 
