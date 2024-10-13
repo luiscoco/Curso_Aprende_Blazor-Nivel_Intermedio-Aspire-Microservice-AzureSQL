@@ -30,6 +30,8 @@ Verify the new projects in the Solution Explorer
 
 ![image](https://github.com/user-attachments/assets/665ce2e3-b111-40a0-98ba-f2e469649dd2)
 
+## 3. Add .NET Aspire support in the Blazor WebAssembly application
+
 Right click on the Blazor WebAssembly project and also add .NET Aspire Orchestrator support:
 
 ![image](https://github.com/user-attachments/assets/aed7c104-b1cd-42d0-8815-4248d9f5e4f9)
@@ -39,5 +41,13 @@ Right click on the Blazor WebAssembly project and also add .NET Aspire Orchestra
 You will be shown the following message, press the Ok button 
 
 ![image](https://github.com/user-attachments/assets/8fb029c0-831b-4053-a49c-a5024ce494d4)
+
+## 4. Add the Blazor WebAssembly project reference in the Aspire Host project
+
+![image](https://github.com/user-attachments/assets/74f8f4fa-3c7c-4a1c-bc6d-01e73def64a9)
+
+## 5. 
+
+
 
 
