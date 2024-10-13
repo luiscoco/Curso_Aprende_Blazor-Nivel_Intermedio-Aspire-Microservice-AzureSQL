@@ -46,7 +46,15 @@ You will be shown the following message, press the Ok button
 
 ![image](https://github.com/user-attachments/assets/74f8f4fa-3c7c-4a1c-bc6d-01e73def64a9)
 
-## 5. 
+## 5. Add the Blazor WebAssembly project in the Aspire Host project middleware(Program.cs)
+
+Add this code:
+
+```csharp
+builder.AddProject<Projects.BlazorWebAssemblyUI>("blazorwebassemblyui");
+```
+
+![image](https://github.com/user-attachments/assets/7b3db30a-86fd-4ddb-ad08-33d5039d57f3)
 
 
 
