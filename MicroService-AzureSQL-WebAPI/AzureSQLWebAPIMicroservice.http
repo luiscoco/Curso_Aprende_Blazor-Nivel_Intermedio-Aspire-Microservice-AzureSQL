@@ -1,0 +1,6 @@
+@AzureSQLWebAPIMicroservice_HostAddress = http://localhost:5258
+
+GET {{AzureSQLWebAPIMicroservice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

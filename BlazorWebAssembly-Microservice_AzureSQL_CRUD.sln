@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microservice-AzureSQL", "MicroService-AzureSQL-WebAPI\Microservice-AzureSQL.csproj", "{14BA3B5A-A0C8-4E96-987A-5F6A582AAECD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWebAssemblyUI", "BlazorWebAssembly-UI\BlazorWebAssemblyUI.csproj", "{4060E35E-4647-4CA8-82A0-B92E88D7832B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebAssembly-Microservice_AzureSQL_CRUD.AppHost", "BlazorWebAssembly-Microservice_AzureSQL_CRUD.AppHost\BlazorWebAssembly-Microservice_AzureSQL_CRUD.AppHost.csproj", "{73AF88AD-90BC-45D2-A132-E36284D7F261}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWebAssembly-Microservice_AzureSQL_CRUD.ServiceDefaults", "BlazorWebAssembly-Microservice_AzureSQL_CRUD.ServiceDefaults\BlazorWebAssembly-Microservice_AzureSQL_CRUD.ServiceDefaults.csproj", "{3218823E-8751-42E2-9BC4-950A46A276F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14BA3B5A-A0C8-4E96-987A-5F6A582AAECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14BA3B5A-A0C8-4E96-987A-5F6A582AAECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14BA3B5A-A0C8-4E96-987A-5F6A582AAECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14BA3B5A-A0C8-4E96-987A-5F6A582AAECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4060E35E-4647-4CA8-82A0-B92E88D7832B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4060E35E-4647-4CA8-82A0-B92E88D7832B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4060E35E-4647-4CA8-82A0-B92E88D7832B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4060E35E-4647-4CA8-82A0-B92E88D7832B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73AF88AD-90BC-45D2-A132-E36284D7F261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73AF88AD-90BC-45D2-A132-E36284D7F261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73AF88AD-90BC-45D2-A132-E36284D7F261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73AF88AD-90BC-45D2-A132-E36284D7F261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3218823E-8751-42E2-9BC4-950A46A276F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3218823E-8751-42E2-9BC4-950A46A276F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3218823E-8751-42E2-9BC4-950A46A276F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3218823E-8751-42E2-9BC4-950A46A276F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C4C5FB7-63C0-4059-8968-A44642F108CB}
+	EndGlobalSection
+EndGlobal
