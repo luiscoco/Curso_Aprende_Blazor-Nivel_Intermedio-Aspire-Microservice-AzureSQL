@@ -66,14 +66,21 @@ After removing the code this is the result
 
 ## 7. Run and verify the application
 
+Run the application with the HTTPS protocol ![image](https://github.com/user-attachments/assets/fe7826f3-6adc-41ce-af46-e07d4cc9b5f6)
+
+![image](https://github.com/user-attachments/assets/5aed30f1-01a4-4848-871a-4557c27ed3e5)
+
+See the Aspire .NET desktop
+
 ![image](https://github.com/user-attachments/assets/6ce2d4b6-33b6-4764-ae2d-126b56f071b5)
 
 See the Web API
 
-
+![image](https://github.com/user-attachments/assets/82ab2b4d-ecd7-4558-98a5-9435a7690404)
 
 See the Blazor WebAssembly application
 
+![image](https://github.com/user-attachments/assets/67622162-760c-4740-af2b-5b0290139b7e)
 
 
 
