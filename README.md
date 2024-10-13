@@ -64,6 +64,16 @@ After removing the code this is the result
 
 ![image](https://github.com/user-attachments/assets/7f821f3f-77ef-48c6-89c7-f814ac3edbc4)
 
+## 7. Run and verify the application
+
+![image](https://github.com/user-attachments/assets/6ce2d4b6-33b6-4764-ae2d-126b56f071b5)
+
+See the Web API
+
+
+
+See the Blazor WebAssembly application
+
 
 
 
